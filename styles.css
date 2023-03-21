@@ -1,0 +1,18 @@
+body {
+    margin: 5rem;
+    background-color: beige;
+}
+
+h1, h2 {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+h2 {
+    border: 2px dashed black;
+}
+div {
+    text-align: center;
+}
