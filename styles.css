@@ -17,3 +17,20 @@ h2 {
 div {
     text-align: center;
 }
+
+ul {
+    text-align: center;
+}
+li {
+    list-style: none;
+    border: 2px solid black;
+    display: block;
+    font-size: 2rem;
+    margin: 100px 700px;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+
+}
